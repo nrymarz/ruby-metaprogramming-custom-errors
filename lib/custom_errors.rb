@@ -1,3 +1,4 @@
+require './partnererror.rb'
 class Person
   attr_accessor :partner, :name
 
